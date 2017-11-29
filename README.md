@@ -1,5 +1,5 @@
 # Hacks & Hackers, 30 11 2017, Zürich
-A introspection into a failed journalistic project
+An Introspection Into a Failed Journalistic Project
 
 ## Wie faul sind die Bundesrichter in Lausanne und Luzern?
 
