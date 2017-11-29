@@ -1,4 +1,4 @@
-# 071130_hacks_hackers
+# Hacks & Hackers, 30 11 2017, Zürich
 A introspection into a failed journalistic project
 
 ## Wie faul sind die Bundesrichter in Lausanne und Luzern?
